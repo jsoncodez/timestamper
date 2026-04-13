@@ -60,7 +60,7 @@ No external database or internet connection is required.
 ### ✔ Event-driven architecture
 The application is fully driven by user interactions (keyboard and mouse events), ensuring a responsive and intuitive workflow.
 
-### ✔ Efficient persistence strategy
+### ✔ Efficient persistence
 Uses debounced saving to reduce unnecessary disk writes while ensuring data integrity.
 
 ### ✔ Lightweight & portable
