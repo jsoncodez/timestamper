@@ -8,6 +8,8 @@ TimeStamper is a Python-based desktop application built with Tkinter that allows
 
 The project focuses on usability, responsive event handling, and simple local data persistence without external dependencies.
 
+
+## [Download portable Application](https://github.com/jsoncodez/timestamper/releases/tag/v0.1.2)
 ---
 
 ## 🚀 Features
@@ -78,9 +80,6 @@ The application can be packaged into a single executable for easy distribution w
 - Data Encryption
 
 ---
-
-## [Download portable Application](https://github.com/jsoncodez/timestamper/releases/tag/v0.1.2)
-
 
 
 ### Run from source
